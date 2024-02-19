@@ -1,0 +1,12 @@
+.header {
+    color:blue;
+}
+
+* {
+    padding: 0.1em;
+}
+
+@media only screen and (max-width: 600px) {
+    #nav {
+    }
+}

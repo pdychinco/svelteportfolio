@@ -1,9 +1,27 @@
-<div id="Experience" class="Experience">
-    <div>
-        
+<div id="Experience" class="grid">
+    <div id="exp1">
+        <span class="date">September 2023 - Present</span>
+        <h3 class="name">Insurance Corporation of British Columbia</h3>
+        <p class="title">Infrastructure Platform Admin (Coop)</p>
+        <ul class="description">
+            <li>Utilize Linux commands to provide MapR Hadoop support to data teams to deploy pipelines on distributed computing clusters</li>
+            <li>Monitor resource allocation to ensure smooth operations of ad-hoc and scheduled job as part of operation support team</li>
+            <li>Lead weekly team huddle to update rest of team on standing items</li>
+        </ul>
     </div>
     <div id="exp1">
-        <span class="date">August 2022 - Present</span>
+        <span class="date">January 2023 - August 2023</span>
+        <h3 class="name">Insurance Corporation of British Columbia</h3>
+        <p class="title">Data Engineer (Coop)</p>
+        <ul class="description">
+            <li>Worked in an Agile/Kanban hybrid environment on a Hadoop-based Big Data Platform</li>
+            <li>Implemented CI/CD data piplines utilizing Spark Scala and conducted testing of table logic via SQL queries</li>
+            <li>Reduced 1 hour of manual work per week by creating UNIX scaript to check folder for new files and move all files into desired location
+            </li>
+        </ul>
+    </div>
+    <div id="exp1">
+        <span class="date">August 2022 - May 2023</span>
         <h3 class="name">British Columbia Institute of Technology</h3>
         <p class="title">Resident Advisor</p>
         <ul class="description">
@@ -14,20 +32,7 @@
             </li>
         </ul>
     </div>
-    <div id="exp2">
-        <span class="date">Sept 2019 - May 2022</span>
-        <h3 class="name">The Salvation Army</h3>
-        <p class="title">Shelter Worker</p>
-        <ul class="description">
-            <li>Perform client intake and discharge functions as necessary during shift</li>
-            <li>Using knowledge about homelessness, addictions, and mental health to provide emotional support
-                as
-                needed
-            </li>
-            <li>Maintain records and statistics, ensuring all required documentation is accurate and complete
-            </li>
-        </ul>
-    </div>
+ 
 
     <div id="exp3">
         <span class="date">Aug 2021 - Jan 2022</span>

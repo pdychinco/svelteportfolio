@@ -1,6 +1,5 @@
-<div id="Education" class="grid" >
+<div id="Education" class="grid">
     
-    <div>
     <div id="educ1">
         <span >Jan 2022 - Present</span>
         <h3 >British Columbia Institute of Technology</h3>
@@ -30,4 +29,6 @@
 
     </div>
 </div>
-</div>
+<style>
+
+</style>
