@@ -6,6 +6,7 @@
     import Experience from './experience/Experience.svelte'
     import Footer from './footer/Footer.svelte'
     import MediaQuery from './mediaQuery/MediaQuery.svelte'
+    import Skills from './skills/Skills.svelte'
 </script>
 
 <MediaQuery query="(min-width: 770px)" let:matches>
@@ -16,10 +17,9 @@
     {/if}
 </MediaQuery>
 <Header />
-<h3 class="header">Experience</h3>
-<Experience />
 <h3 class="header">Projects</h3>
 <Projects />
-<h3 class="header">Education</h3>
-<Education />
+<h3 class="header">Technical Skills</h3>
+<Skills />
+
 <Footer />
