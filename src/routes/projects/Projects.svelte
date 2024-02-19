@@ -8,7 +8,7 @@
 <div class="grid">
     <div>
         <h3><a href="https://linkmix.co/11742933">AWS DeepRacer Student League - Top 10 Placement in Canada</a></h3>
-        <img src={deepracer} alt="AWS DeepRacer Student League"/>
+        <center><img src={deepracer} alt="AWS DeepRacer Student League"/></center>
         <p>I built an AWS DeepRacer model using Python and Reinforcement Learning that allows the DeeRacer car to go around a track autonomously. My model's lap time on the virtual March 2022 Global
             Student league track qualified me as one of the top Canadian Student racers in Canada. I was invited to compete in the Ottawa 2022 Canadian Student Wilcard Race on a live track, where I
             placed 9th.</p>
@@ -24,3 +24,5 @@
         <p>Web application to help users decide which restaurant to eat at based on user's survey results. I focused primarily on Javascript & backend development to create core features for the app, such as the restaurant survey and restaurant roulette. Created with two other BCIT CST 1st term students for COMP 1800.</p>
     </div>
 </div>
+
+
